@@ -48,15 +48,15 @@ EDA steps included:
 
 
 
-\- Checking for missing values and imputation
+- Checking for missing values and imputation
 
-\- Label encoding of categorical variables
+- Label encoding of categorical variables
 
-\- Correlation heatmap to assess multicollinearity
+- Correlation heatmap to assess multicollinearity
 
-\- Outlier visualization using boxplots
+- Outlier visualization using boxplots
 
-\- Class balance check
+- Class balance check
 
 
 
@@ -64,11 +64,11 @@ EDA steps included:
 
 
 
-\## ⚙️ Models Trained
+## ⚙️ Models Trained
 
 
 
-The following \*\*6 models\*\* were trained and evaluated:
+The following **6 models** were trained and evaluated:
 
 
 
