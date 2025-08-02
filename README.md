@@ -12,7 +12,7 @@ The goal is to explore multiple classification models and evaluate their perform
 
 
 
-\## 📊 Dataset
+## 📊 Dataset
 
 
 
@@ -20,19 +20,19 @@ The dataset used for this project was sourced from a structured healthcare recor
 
 
 
-\- Age
+- Age
 
-\- BMI
+- BMI
 
-\- Smoking status
+- Smoking status
 
-\- Physical activity
+- Physical activity
 
-\- Alcohol intake
+- Alcohol intake
 
-\- Blood glucose
+- Blood glucose
 
-\- ...and several other lifestyle and clinical indicators.
+- ...and several other lifestyle and clinical indicators.
 
 
 
@@ -40,7 +40,7 @@ The dataset used for this project was sourced from a structured healthcare recor
 
 
 
-\## 🔍 Exploratory Data Analysis (EDA)
+## 🔍 Exploratory Data Analysis (EDA)
 
 
 
