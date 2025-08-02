@@ -1,4 +1,4 @@
-\# 🩺 Hypertension Prediction using Machine Learning
+# 🩺 Hypertension Prediction using Machine Learning
 
 
 
